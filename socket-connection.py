@@ -1,5 +1,4 @@
 import socket
-from utils import timefunc
 
 
 def main():
@@ -16,4 +15,4 @@ def main():
 
 
 if __name__ == '__main__':
-    utils.timefunc(main())
+    main()
