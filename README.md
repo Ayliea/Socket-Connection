@@ -1,0 +1,1 @@
+Simple socket connection tool. Ends connection to host immediately after connection. Used for expanding tools that require socket connection. Wrapped in dunder function to prevent automatic execution upon import into another file.
